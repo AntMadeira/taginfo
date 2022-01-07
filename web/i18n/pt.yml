@@ -346,7 +346,7 @@ pages:
 
 flexigrid:
     pagetext: Página
-    pagestat: Exibindo de {from} à {to} de {total} itens
+    pagestat: Exibindo de {from} a {to} de {total} itens
     outof: de
     findtext: Pesquisar
     procmsg: Processando, por favor aguarde...
